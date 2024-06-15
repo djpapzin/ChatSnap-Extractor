@@ -1,4 +1,4 @@
-# Message Extraction
+# ChatSnap-Extractor
 
 ## Introduction
 
