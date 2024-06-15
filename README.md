@@ -20,13 +20,13 @@ This project is a Python-based script designed to accurately extract text, times
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/message-extraction.git
+   git clone https://github.com/djpapzin/ChatSnap-Extractor.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd message-extraction
+   cd ChatSnap-Extractor
    ```
 
 3. Create and activate a virtual environment (optional but recommended):
@@ -155,7 +155,7 @@ This graph demonstrates the relationship between the model's confidence in its p
 ### Confusion Matrix
 This table visualizes the model's performance by showing where it tends to make mistakes, helping to identify areas for potential improvement:
 
-![Confusion Matrix](screenshots/F1_Confidence_curve.png)
+![Confusion Matrix](screenshots/confussion_matrix.png)
 
 ## Project Structure
 
